@@ -1,1 +1,2 @@
 alert("Gus");
+var check;
